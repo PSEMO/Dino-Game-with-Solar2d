@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "graphics",
+        "Runtime",
+        "display",
+        "widget",
+        "ScaleY"
+    ]
+}
